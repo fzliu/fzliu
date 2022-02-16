@@ -1,6 +1,6 @@
 ### Hey there, I'm Frank 👋
 
-Computer button presser extraordinaire working on everything from [software-defined radios](https://github.com/fzliu/osdr-q10) to [embedding vector generation](https://zilliz.com/learn/what-is-vector-database) from machine learning models. Prior experience with [Towhee](https://github.com/towhee-io/towhee), [Orion](https://github.com/OrionInnov), and (formerly) computer vision & machine learning at Yahoo/Flickr. Feel free to connect with me on [Twitter](https://twitter.com/fzliu) or shoot me an email.
+Computer button presser extraordinaire working on everything from [software-defined radios](https://github.com/fzliu/osdr-q10) to [embedding vector generation](https://zilliz.com/learn/what-is-vector-database) from machine learning models. Currently working on [Towhee](https://github.com/towhee-io/towhee), [Orion](https://github.com/OrionInnov), and (formerly) computer vision & machine learning at Yahoo/Flickr. Feel free to connect with me on [Twitter](https://twitter.com/fzliu) or shoot me an email.
 
 <!--
 **fzliu/fzliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

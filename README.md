@@ -1,6 +1,6 @@
 ### Hey there, I'm Frank 👋
 
-Computer button presser extraordinaire working on everything from [software-defined radios](https://github.com/fzliu/osdr-q10) to [machine learning frameworks](https://towhee.io) from machine learning models. Currently working on [Towhee](https://github.com/towhee-io/towhee), [Orion](https://github.com/OrionInnov), and (formerly) computer vision & machine learning at Yahoo/Flickr. Feel free to connect with me on [Twitter](https://twitter.com/fzliu) or shoot me an email.
+Presser of computer buttons currently working on [Towhee](https://github.com/towhee-io/towhee). Feel free to connect with me on [Twitter](https://twitter.com/fzliu) or shoot me an email.
 
 [@filip-halt](https://github.com/filip-halt) and I will be holding Towhee [virtual office hours](https://t.co/rLulYjSqCg) every Thursday 4-5PM PST. We'll chat about everything ranging from the latest and greatest computer vision models to the weather. Come join us!
 

@@ -1,6 +1,6 @@
-### Hey there, I'm Frank 👋
+### Hey there, I'm [Frank](https://frankzliu.com) 👋
 
-Presser of computer buttons currently working on [Towhee](https://github.com/towhee-io/towhee). Feel free to connect with me on [Twitter](https://twitter.com/fzliu) or shoot me an email.
+Presser of computer buttons currently working on [Towhee](https://github.com/towhee-io/towhee). Feel free to connect with me on [Twitter](https://twitter.com/frankzliu) or [LinkedIn](https://linkedin.com/in/fzliu).
 
 [@filip-halt](https://github.com/filip-halt) and I will be holding Towhee [virtual office hours](https://t.co/rLulYjSqCg) every Thursday 4-5PM PST. We'll chat about everything ranging from the latest and greatest computer vision models to the weather. Come join us!
 

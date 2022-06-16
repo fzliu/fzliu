@@ -5,10 +5,10 @@ Professional presser of computer buttons currently working on [Towhee](https://g
 My background:
 - 2009 - 2013: BS with Honors, Electrical Engineering @ Stanford University (minor in CS)
 - 2013 - 2014: MS, Electrical Engineering @ Stanford University
-- 2014 - 2016: SDE, Computer Vision & Machine Learning, Yahoo
-- 2016 - 2021: CTO & co-founder, [Orion Innovations](https://orioniot.cn)
-- 2021 - present: Architect, [Zilliz](https://zilliz.com)
+- 2014 - 2016: SDE, Computer Vision & Machine Learning @ Yahoo
+- 2016 - 2021: CTO & co-founder @ [Orion Innovations](https://orioniot.cn)
+- 2021 - present: Architect @ [Zilliz](https://zilliz.com)
 
 My podcasts/presentations:
-- Podcast: [Using AI to Supercharging AI Applications](https://thatdigitalshow.withgoogle.com/post/apac-19-ai-and-data-driven-applications-with-zilliz/)
-- Presentation: [Building an Open-source Platform for Generating Embedding Vectors](https://pretalx.com/bbuzz22/talk/HZQPUF/)
+- [That Digital Show](https://thatdigitalshow.withgoogle.com/): [Using AI to Supercharging AI Applications](https://thatdigitalshow.withgoogle.com/post/apac-19-ai-and-data-driven-applications-with-zilliz/)
+- [Berlin Buzzwords 2022](https://pretalx.com/bbuzz22/talk/HZQPUF/): [Building an Open-source Platform for Generating Embedding Vectors](https://www.youtube.com/watch?v=fZ76477pBT8)

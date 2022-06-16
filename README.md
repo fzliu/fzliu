@@ -1,20 +1,14 @@
 ### Hey there, I'm [Frank](https://frankzliu.com) 👋
 
-Presser of computer buttons currently working on [Towhee](https://github.com/towhee-io/towhee). Feel free to connect with me on [Twitter](https://twitter.com/frankzliu) or [LinkedIn](https://linkedin.com/in/fzliu).
+Professional presser of computer buttons currently working on [Towhee](https://github.com/towhee-io/towhee) and [Milvus](https://github.com/milvus-io/milvus) at [Zilliz](https://zilliz.com). Feel free to connect with me on [Twitter](https://twitter.com/frankzliu) or [LinkedIn](https://linkedin.com/in/fzliu).
 
-[@filip-halt](https://github.com/filip-halt) and I will be holding Towhee [virtual office hours](https://t.co/rLulYjSqCg) every Thursday 4-5PM PST. We'll chat about everything ranging from the latest and greatest computer vision models to the weather. Come join us!
+My background:
+- 2009 - 2013: BS with Honors, Electrical Engineering @ Stanford University (minor in CS)
+- 2013 - 2014: MS, Electrical Engineering @ Stanford University
+- 2014 - 2016: SDE, Computer Vision & Machine Learning, Yahoo
+- 2016 - 2021: CTO & co-founder, [Orion Innovations](https://orioniot.cn)
+- 2021 - present: Architect, [Zilliz](https://zilliz.com)
 
-<!--
-**fzliu/fzliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My podcasts/presentations:
+- Podcast: [Using AI to Supercharging AI Applications](https://thatdigitalshow.withgoogle.com/post/apac-19-ai-and-data-driven-applications-with-zilliz/)
+- Presentation: [Building an Open-source Platform for Generating Embedding Vectors](https://pretalx.com/bbuzz22/talk/HZQPUF/)

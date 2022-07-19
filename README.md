@@ -10,5 +10,5 @@ My background:
 - 2021 - present: Director of Operations & AI Architect @ [Zilliz](https://zilliz.com)
 
 My podcasts/presentations:
-- [That Digital Show](https://thatdigitalshow.withgoogle.com/): [Using AI to Supercharging AI Applications](https://thatdigitalshow.withgoogle.com/post/apac-19-ai-and-data-driven-applications-with-zilliz/)
+- [That Digital Show](https://thatdigitalshow.withgoogle.com/): [Using AI to Supercharge Data-Driven Applications](https://thatdigitalshow.withgoogle.com/post/apac-19-ai-and-data-driven-applications-with-zilliz/)
 - [Berlin Buzzwords 2022](https://pretalx.com/bbuzz22/talk/HZQPUF/): [Building an Open-source Platform for Generating Embedding Vectors](https://www.youtube.com/watch?v=fZ76477pBT8)

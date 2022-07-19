@@ -7,7 +7,7 @@ My background:
 - 2013 - 2014: MS, Electrical Engineering @ Stanford University
 - 2014 - 2016: SDE, Computer Vision & Machine Learning @ Yahoo
 - 2016 - 2021: CTO & co-founder @ [Orion Innovations](https://orioniot.cn)
-- 2021 - present: Architect @ [Zilliz](https://zilliz.com)
+- 2021 - present: Director of Operations & AI Architect @ [Zilliz](https://zilliz.com)
 
 My podcasts/presentations:
 - [That Digital Show](https://thatdigitalshow.withgoogle.com/): [Using AI to Supercharging AI Applications](https://thatdigitalshow.withgoogle.com/post/apac-19-ai-and-data-driven-applications-with-zilliz/)

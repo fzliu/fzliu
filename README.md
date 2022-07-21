@@ -9,7 +9,7 @@ My education:
 My background:
 - 2014 - 2016: SDE, Computer Vision & Machine Learning @ Yahoo
 - 2016 - 2021: CTO & Co-founder @ [Orion Innovations](https://orioniot.cn)
-- 2021 - present: Director of Operations & AI Architect @ [Zilliz](https://zilliz.com)
+- 2021 - present: Director of Operations & ML Architect @ [Zilliz](https://zilliz.com)
 
 My podcasts/presentations:
 - [That Digital Show](https://thatdigitalshow.withgoogle.com/): [Using AI to Supercharge Data-Driven Applications](https://thatdigitalshow.withgoogle.com/post/apac-19-ai-and-data-driven-applications-with-zilliz/)

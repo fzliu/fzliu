@@ -1,6 +1,6 @@
 ### Hey there, I'm [Frank](https://frankzliu.com) 👋
 
-Professional presser of computer buttons currently working on [Towhee](https://github.com/towhee-io/towhee) and [Milvus](https://github.com/milvus-io/milvus) at [Zilliz](https://zilliz.com). Feel free to connect with me on [Twitter](https://twitter.com/frankzliu) or [LinkedIn](https://linkedin.com/in/fzliu).
+Professional presser of computer buttons currently at [Zilliz](https://zilliz.com). Feel free to connect with me on [Twitter](https://twitter.com/frankzliu) or [LinkedIn](https://linkedin.com/in/fzliu).
 
 My education:
 - 2009 - 2013: BS with Honors, Electrical Engineering @ Stanford University (minor in CS)
